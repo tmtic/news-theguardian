@@ -28,6 +28,7 @@ buscar_arts(dados)
 ```
 
 ### Execução
+> Pré-requisitos: Ter GIT e Python3 instalados na máquina
 ```sh
 $ git clone https://https://github.com/tmtic/news-theguardian.git
 .git
